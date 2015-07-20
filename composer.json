@@ -3,6 +3,7 @@
   "description": "Module skeleton for SMS application.",
   "keywords": ["sms", "module", "skeleton"],
   "homepage": "http://github.com/ubikz",
+  "type": "sms-module",
   "license":"MIT",
   "version":"0.0.1-dev",
   "authors":[
